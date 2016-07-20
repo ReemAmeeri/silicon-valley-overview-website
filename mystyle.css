@@ -1,0 +1,57 @@
+body {
+    background-color:#79CC7A;
+}
+
+h1{
+	font-family: 'Bevan', serif;
+	color:#300E0A;
+	font-size:70px
+}
+td h2 {
+	
+	color:white;
+	
+	
+}
+h3{
+	font-family: 'Nunito', serif;
+	color:#300E0A;
+	font-size:40px
+}
+
+.nav ul{
+	
+text-align: center;
+list-style: none;
+margin-bottom:70px;	
+margin-top:150px;
+color:white;
+}
+
+.nav li{
+	display:inline;
+	font-family: 'Oswald', sans-serif;
+      font-size:18px;
+margin-left:20px;
+color:white;
+
+}
+
+
+table{
+	max-width:900px;
+	position:center;
+	font-size:14px;
+	font-family:'Nunito', serif;
+}
+
+.footer div{
+	padding-bottom:30px;
+	background-color:#525252;
+color:white;
+}
+
+.text p {
+	
+	color:white;
+}
